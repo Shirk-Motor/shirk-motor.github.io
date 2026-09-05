@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to the Schürch Motor
+title: Introduction to the Shirk Motor
 bigimg: /img/20190815_181346.jpg
 tags: [PPMM]
 ---
